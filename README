@@ -1,0 +1,8 @@
+See gps.h for usage.
+
+---------
+
+Check LICENSE for licensing info.
+
+This project is based off https://pykalman.github.io/
+<br/>and has been written to speed up operations.
